@@ -1,2 +1,2 @@
 node.js:
-This code creates a simple HTTP server using Node.js. It first imports the `http` module and then defines a server using the `http.createServer` method. The server listens for incoming requests and sends back a response with the message "<h1>This is my homepage</h1>". When the server is active, it logs a message to the console. Additionally, it listens on port 4000, and a confirmation message is printed to the console when the server starts listening.
+This code creates a simple HTTP server using Node.js. It first imports the `http` module and then defines a server using the `http.createServer` method. The server listens for incoming requests and sends back a response with the message "<h1>This is my homepage</h1>".
